@@ -7,6 +7,6 @@ this project run league between 16 teams then between 8 then between 4 then betw
 
 
 
-![project photo](https://raw.githubusercontent.com/tawfik-s/footbool_cup_simulation_using_AOP/main/imag/program.png)
+![project photo](imag/program.png)
 
 
